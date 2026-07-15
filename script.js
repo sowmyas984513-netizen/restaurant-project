@@ -1,0 +1,1 @@
+console.log("Elegance Restaurant Loaded");
